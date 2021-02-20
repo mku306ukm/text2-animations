@@ -15,7 +15,7 @@ h1{
     margin: 0;
     padding: 0;
     color: #000;
-    font-size: 22em;
+    font-size: 6em;
     
 
 }
@@ -24,7 +24,7 @@ h1 span
     display: table-cell;
     margin: 0;
     padding: 0;
-    animation: animate 5s linear infinite;
+    animation: animate 5s linear reverse infinite;
     
 }
 h1 span:nth-child(1)
